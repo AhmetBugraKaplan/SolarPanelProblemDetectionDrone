@@ -1,9 +1,15 @@
 #  Solar Panel Problem Detection with Custom Drone
 >  Real-time solar panel fault detection using a handcrafted drone and deep learning.
 
+
+## Test Video
+
+[![Test Video](https://img.youtube.com/vi/PcfvBgEvaVc/0.jpg)](https://youtube.com/shorts/PcfvBgEvaVc?feature=share)
+
+
 ---
 
-##  Project Video
+## Project Video
 
 [![Watch the video](https://img.youtube.com/vi/enpU312Wr6s/0.jpg)](https://www.youtube.com/watch?v=enpU312Wr6s&t=385s)
 
