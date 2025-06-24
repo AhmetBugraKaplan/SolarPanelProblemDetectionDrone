@@ -3,11 +3,11 @@
 
 ---
 
-##  Demo Video
+##  Project Video
 
 [![Watch the video](https://img.youtube.com/vi/enpU312Wr6s/0.jpg)](https://www.youtube.com/watch?v=enpU312Wr6s&t=385s)
 
-_Click the image to watch the project demo starting at 6:25._
+
 
 ---
 
