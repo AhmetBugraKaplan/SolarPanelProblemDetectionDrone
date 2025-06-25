@@ -4,7 +4,7 @@
 
 ## Test Video
 
-[![Test Video](https://img.youtube.com/vi/PcfvBgEvaVc/0.jpg)](https://youtube.com/shorts/PcfvBgEvaVc?feature=share)
+[![Test Video](https://img.youtube.com/vi/LRUYP9ZXcmY/0.jpg)](https://www.youtube.com/watch?v=LRUYP9ZXcmY)
 
 
 ---
